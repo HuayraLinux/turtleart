@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=TurtleArt
+Name[es]=TortugArte
+GenericName=Sugar TurtleBlocks activity
+GenericName[nb]=Sugar Skilpaddekunst-aktivitet
+GenericName[es]=Actividad Sugar TortugArte
+TryExec=turtleart
+Exec=/usr/bin/tortugarte
+Icon=turtleart
+Type=Application
+Comment=A Logo programming environment
+Comment[nb]=Et miljø for Logo-programmering
+Comment[es]=Un entorno de programación Logo
+Terminal=false
+StartupNotify=true
+Categories=Education;Art;

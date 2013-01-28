@@ -1,0 +1,5 @@
+[ /etc/apt/preferences.d/huayra-turtleart-pinning-900 ]
+Package: turtleart
+Pin: version 106*
+Pin-Priority: 900
+

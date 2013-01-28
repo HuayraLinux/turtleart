@@ -1,0 +1,14 @@
+activity/turtleart.svg usr/share/icons/hicolor/scalable/apps/
+activity/application-x-turtle-art.svg usr/share/icons/gnome/scalable/mimetypes/
+icons usr/share/sugar
+images usr/share/sugar
+#locale usr/share/sugar
+po usr/share/sugar
+util usr/share/sugar
+plugins usr/share/sugar
+gnome_plugins usr/share/sugar
+TurtleArt usr/share/sugar
+turtleblocks.py usr/share/sugar
+debian/huayra-turtleart-pinning-900 etc/apt/preferences.d
+debian/tortugarte usr/bin
+debian/turtleart.desktop usr/share/applications

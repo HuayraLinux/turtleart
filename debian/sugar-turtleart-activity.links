@@ -1,0 +1,6 @@
+usr/share/sugar/TurtleArt usr/share/sugar/activities/TurtleArt.activity/TurtleArt
+usr/share/sugar/TurtleArt usr/share/pyshared/TurtleArt
+usr/share/sugar/images usr/share/sugar/activities/TurtleArt.activity/images
+usr/share/sugar/icons usr/share/sugar/activities/TurtleArt.activity/icons
+usr/share/icons/hicolor/scalable/apps/turtleart.svg usr/share/sugar/activities/TurtleArt.activity/activity/turtleart.svg
+usr/share/icons/gnome/scalable/mimetypes/application-x-turtle-art.svg usr/share/sugar/activities/TurtleArt.activity/activity/application-x-turtle-art.svg
