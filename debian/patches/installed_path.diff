@@ -1,0 +1,11 @@
+--- a/turtleblocks.py
++++ b/turtleblocks.py
+@@ -58,7 +58,7 @@
+ 
+ class TurtleMain():
+     ''' Launch Turtle Art in GNOME (from outside of Sugar). '''
+-    _INSTALL_PATH = '/usr/share/sugar/activities/TurtleArt.activity'
++    _INSTALL_PATH = '/usr/share/turtleart'
+     _ALTERNATIVE_INSTALL_PATH = \
+         '/usr/local/share/sugar/activities/TurtleArt.activity'
+     _ICON_SUBPATH = 'images/turtle.png'
