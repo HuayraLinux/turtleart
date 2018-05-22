@@ -1,3 +1,9 @@
+turtleart (170-1huayra2) unstable; urgency=medium
+
+  * Quitando pinning de jessie.
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Tue, 22 May 2018 15:59:32 -0300
+
 turtleart (170-1huayra1) testing; urgency=low
 
   * New release 170

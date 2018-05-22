@@ -9,7 +9,6 @@ plugins usr/share/turtleart
 gnome_plugins usr/share/turtleart
 TurtleArt usr/share/turtleart
 turtleblocks.py usr/share/turtleart
-debian/huayra-turtleart-pinning-900 etc/apt/preferences.d
 debian/bin/turtleart usr/bin
 debian/turtleart.desktop usr/share/applications
 activity usr/share/turtleart

@@ -1,10 +1,9 @@
 Source: turtleart
 Section: misc
 Priority: optional
-Maintainer: Matthew Gallagher <mattva01@gmail.com>
-Uploaders: Luke Faraone <lfaraone@debian.org>
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
 Build-Depends: cdbs (>= 0.4.90~), debhelper (>= 7), python-all (>= 2.6.6-3~), help2man
-Standards-Version: 3.9.3
+Standards-Version: 3.9.8
 Vcs-Bzr: http://bzr.debian.org/bzr/collab-maint/turtleart
 Vcs-Browser: http://bzr.debian.org/loggerhead/collab-maint/turtleart/
 Homepage: http://wiki.sugarlabs.org/go/Activities/Turtle_Art
